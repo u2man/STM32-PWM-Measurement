@@ -17,4 +17,4 @@ The minimum frequency that can be measure is (Timer Frequency/Auto-reload Counte
 So the minimum frequency is 915.5 Hz.
 
 What is the max frequnecy?
-Check this video
+Check this video https://youtu.be/8KmnPHKVKVo
